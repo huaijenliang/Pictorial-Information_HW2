@@ -1,0 +1,9 @@
+function [ p ] = L2P( l1, l2 )
+%UNTITLED6 Summary of this function goes here
+%   l: [a, b]
+%   p: [x, y]
+M = [
+
+
+end
+
